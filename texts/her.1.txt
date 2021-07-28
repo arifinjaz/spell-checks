@@ -1,0 +1,18 @@
+The
+quick
+brown
+fox
+jumps
+over
+the
+lazy
+dog
+hgsghg
+ksjhdg
+skjddkj
+jdhd
+
+    else if (strlen(word)>5)
+    {
+        
+    }
